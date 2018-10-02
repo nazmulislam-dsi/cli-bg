@@ -89,7 +89,7 @@ If you are already in **target** folder then just
 java -jar cli-bg-1.0-SNAPSHOT.jar
 ```
 
-# Constrain 
+## Constrain 
 * While fighting, area of the opponent is not honored.
 * GameObject overlapping is honored if GameObjects are not go through-able.
 * Drawing Frame side by side is not supported.
