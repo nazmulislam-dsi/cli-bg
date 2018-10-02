@@ -102,10 +102,13 @@ Checkout some screenshots -
 
 * Introduction
 ![Introduction](docs/screenshots/01.png)
+
 * Instruction
 ![Instruction](docs/screenshots/02.png)
+
 * Game Play
 ![Game Play](docs/screenshots/03.png)
+
 * Game Statistics
 ![Game Stat](docs/screenshots/04.png)
 
